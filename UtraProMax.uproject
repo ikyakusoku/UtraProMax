@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{452FD591-41AB-82BE-615F-9F95B437D8E7}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "UtraProMax",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
