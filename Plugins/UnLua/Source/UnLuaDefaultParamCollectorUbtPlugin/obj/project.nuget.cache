@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LIB4voowM9RED+tFUXU9rlD4V4B0X/1sJ6/nEi5M8Cx/rumnLyTZ2UfV9VMrqKDiYThFI4kFzp1O80s/jPWx6w==",
+  "success": true,
+  "projectFilePath": "H:\\DesigningGame\\UtraProMax\\Plugins\\UnLua\\Source\\UnLuaDefaultParamCollectorUbtPlugin\\UnLuaDefaultParamCollectorUbtPlugin.ubtplugin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IK\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
